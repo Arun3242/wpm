@@ -3,7 +3,7 @@
     <title>  
     Registration Page  
     </title>  
-    </head>  
+    </head> 
     <body bgcolor="orange">  
     <br>  
     <br>  
